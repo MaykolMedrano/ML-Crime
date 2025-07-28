@@ -16,7 +16,7 @@ Este proyecto desarrolla un modelo predictivo de victimización personal basado 
 ## 👥 Autores
 
 - **Catalina Aránguiz** - [caranguizc@estudiante.uc.cl](mailto:caranguizc@estudiante.uc.cl)
-- **Maykol Medrano** - [mmedrano@uc.cl](mailto:mmedrano@uc.cl)
+- **Maykol Medrano** - [mmedrano2@uc.cl](mailto:mmedrano@uc.cl)
 
 **Institución:** Instituto de Economía, Pontificia Universidad Católica de Chile  
 **Curso:** EAE3709 - Aplicaciones de Machine Learning en Economía  
